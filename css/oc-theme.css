@@ -1824,6 +1824,9 @@ textarea.form-control {
     height: 72px;
     font-size: 20px;
   }
+  .footer-note .c-btn__01 span {
+    padding: 0 40px 0 0;
+  }
   .footer-note .c-btn__01 span:after {
     width: 27px;
     height: 21px;
