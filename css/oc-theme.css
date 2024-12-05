@@ -1883,7 +1883,7 @@ textarea.form-control {
 .mv-block__ct-ttl {
   display: block;
   font-weight: 900;
-  font-size: 36px;
+  font-size: 38px;
   color: black;
   margin-bottom: 25px;
 }
@@ -2185,7 +2185,7 @@ textarea.form-control {
   width: 20%;
   text-align: center;
   border: 1px solid #89B4CE;
-  padding: 15px 10px;
+  padding: 15px 13px;
 }
 .offers-table .table-01 tr th {
   font-weight: bold;
@@ -2233,6 +2233,9 @@ textarea.form-control {
 .offers-table .table-01 tr td ul li a {
   color: black;
   text-decoration: underline;
+}
+.offers-table .table-01 tr:nth-child(2) td {
+  font-weight: bold;
 }
 
 .offers-block {
